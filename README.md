@@ -1,4 +1,3 @@
-# lost-and-found-manager
 # Lost and Found Management System
 
 This project is a Lost and Found Management System that I am developing as part of my learning in backend development.
